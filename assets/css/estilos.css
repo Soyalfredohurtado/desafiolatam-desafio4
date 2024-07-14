@@ -1,0 +1,77 @@
+/* --------------------------------- Menú de Navegación ----------------------------------*/
+nav{
+    background-color: #28A745;
+}
+
+nav a{
+    color: white;
+}
+a{
+    color: white;
+}
+
+span{
+    color: white;
+}
+
+.box-formulario{
+    background-color: #28A745;
+}
+/**/
+.box-productos{
+    font-display: flex;
+    justify-content: center;
+}
+
+
+.card{
+    width: 100%;
+    min-height: 100%;
+}
+
+.card img{
+    min-height: 180px;
+}
+h5 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.3rem;
+    min-height: 80px;
+}
+.price-1{
+    color: black;
+}
+.price-2{
+    color:  #28A745;
+    font-size: 1.5rem;
+    margin-left: 7px;
+}
+.box-productos{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+.btn-form{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-form button{
+    width: 150px;
+    background-color: #F8F9FA;
+    border: 1px solid #DDDDDD;
+   
+}
+
+
+
+nav img{
+    width: 120px;
+}
+
+footer img{
+    width: 80px;
+}
